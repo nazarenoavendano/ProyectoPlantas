@@ -2,6 +2,7 @@ package plantas;
 
 public class Plantas {
     public static void main(String[] args) {
+        System.out.println("------------------------");
         System.out.println("Programa Plantas.");
         System.out.println("------------------------");
 
